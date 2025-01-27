@@ -5,3 +5,4 @@
 
 * local transfers added
 
+* paynow added
